@@ -53,7 +53,7 @@ Jogo de adivinhação/
 ## 👥 Autor
 LC-KING -debug
 
-[Seu Nome]
+
 
 ## 📜 Licença
 
